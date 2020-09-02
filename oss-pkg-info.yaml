@@ -1,5 +1,4 @@
 Open Source Software Package:
 - name: webOSOSE-webos-fontconfig-files
-  version: 1.0.0
   source: https://github.com/webosose/webos-fontconfig-files
   license: Apache-2.0
